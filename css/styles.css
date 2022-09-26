@@ -1,0 +1,17 @@
+/* This is the styles.css of pdotwang.github.io */
+
+@charset "UTF-8";
+
+/* This style is defined for a background image */
+/* The original size of the image is 3072 by 1283 */
+div.rootbkimage {
+  background-image:url('../img/view-of-the-grand-tetons-from-oxbow-bend-by-azjack2008-freeimages-com.jpg');
+  background-size: 768px;
+  width: 768px;
+  height: 321px;
+  border: 20px solid;
+  color: pink;
+  margin: auto;
+  margin-top:64px;
+}
+
